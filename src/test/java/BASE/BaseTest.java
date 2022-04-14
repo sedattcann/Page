@@ -26,6 +26,7 @@ public class BaseTest {
             System.out.println("Driver Başlatılamadı");
 
         }
+
     }
 
     public static WebDriver getWebDriver() {

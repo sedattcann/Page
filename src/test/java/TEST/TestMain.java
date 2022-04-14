@@ -18,7 +18,13 @@ public class TestMain extends BaseTest {
     public void test(){
         practice_form
                 .setName()
-                .setLastName();
-        
+                .setLastName()
+                .setEmail()
+                .setGender()
+                .setMobile()
+                .setBirtDay()
+                .setSubject();
+
+
     }
 }
